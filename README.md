@@ -103,6 +103,3 @@ The system performs the following text processing steps:
 - **Oviyashree C J** 
 - **Anitha A**   
 - **Janani S** 
-
-  "skills": ["python", "flask", "sql"]
-}
